@@ -87,7 +87,7 @@ div {
     background-color:rgb(12, 12, 73, 0.7);
 }
 
-.lacunas{
+.lacunas {
     display: flex;
     justify-content: center;
     flex-direction: column;
